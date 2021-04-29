@@ -12,3 +12,5 @@ http://localhost/onlinecart/admin/product-list
 Shop URL:
 http://localhost/onlinecart/
 
+Database file Location:
+database/onlinecart.sql
